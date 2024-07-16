@@ -4,7 +4,7 @@ Ce projet est un backend pour gérer des produits.
 
 ## Configuration
 
-### Fichier .env
+##Fichier .env
 
 Vous devez ajouter un fichier .env à la racine du projet avec le contenu suivant :
 
