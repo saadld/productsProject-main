@@ -2,7 +2,7 @@
 
 Ce projet est un backend pour gérer des produits.
 
-## Configuration
+Configuration
 
 ##Fichier .env
 
